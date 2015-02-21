@@ -1,0 +1,14 @@
+{
+  "name": "eclip-mp",
+  "version": "x.y.z",
+  "homepage": "https://github.com/eClip-/mp",
+  "authors": [
+    "Maik Hummel <maik@eclip.io>"
+  ],
+  "description": "eClip Module Package Boilerplate",
+  "main": "emp.json",
+  "keywords": [
+    "boilerplate"
+  ],
+  "license": "MIT"
+}
