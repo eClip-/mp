@@ -1,9 +1,9 @@
-[![GitHub release](https://img.shields.io/github/release/eClip-/mp.svg)](./releases)
-[![EUPL](eupl_1.1.svg)](LICENSE.txt)
+[![GitHub release](https://img.shields.io/github/release/eClip-/mp.svg)](https://github.com/eClip-/mp/releases)
+[![EUPL](https://raw.github.com/eClip-/EUPL-badge/master/eupl_1.1.svg)](LICENSE.txt)
 
-# :package: eClip Module Package Boilerplate
+# :package: eClip Package Boilerplate
 
-> A kickstarter for eClip Module Packages.
+> A kickstarter for eClip Packages.
 
 ## Quick Start
 
@@ -25,3 +25,5 @@
 Just replace `emp.svg` with your own icon.
 
 Credit for the default icon goes to [Yannick Lung](http://www.yanlu.de/) :cookie:
+
+[![Icon](emp.svg)]()
