@@ -1,6 +1,6 @@
 {
   "name": "eclip-mp",
-  "version": "0.0.1-alpha.1",
+  "version": "0.0.2-alpha.1",
   "description": "eClip Module Package Boilerplate",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   "homepage": "https://github.com/eClip-/mp",
   "devDependencies": {
     "grunt": "^0.4.5",
+    "grunt-bump": "^0.3.0",
     "grunt-cli": "^0.1.13"
   }
 }
