@@ -1,6 +1,6 @@
 {
   "name": "eclip-mp",
-  "version": "0.0.2-alpha.2",
+  "version": "0.0.2-alpha.3",
   "description": "eClip Module Package Boilerplate",
   "main": "index.js",
   "scripts": {
