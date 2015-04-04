@@ -1,5 +1,5 @@
-[![GitHub release](https://img.shields.io/github/release/eClip-/mp.svg)]()
-[![EUPL](https://raw.githubusercontent.com/eClip-/EUPL-badge/master/eupl_1.1.svg)]()
+[![GitHub release](https://img.shields.io/github/release/eClip-/mp.svg)](./releases)
+[![EUPL](eupl_1.1.svg)](LICENSE.txt)
 
 # :package: eClip Module Package Boilerplate
 
