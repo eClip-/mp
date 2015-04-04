@@ -1,0 +1,23 @@
+{
+  "name": "eclip-mp",
+  "version": "0.0.1-alpha.1",
+  "description": "eClip Module Package Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eClip-/mp.git"
+  },
+  "keywords": [
+    "eClip",
+    "boilerplate"
+  ],
+  "author": "Maik Hummel <yo@beevelop.com> (https://beevelop.com)",
+  "license": "EUPL",
+  "bugs": {
+    "url": "https://github.com/eClip-/mp/issues"
+  },
+  "homepage": "https://github.com/eClip-/mp"
+}
