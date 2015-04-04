@@ -15,16 +15,11 @@ module.exports = function (grunt) {
                 tagMessage: 'Version %VERSION%',
                 push: true,
                 pushTo: 'origin',
-                gitDescribeOptions: '--tags --always --abbrev=1 --dirty=-d'
+                gitDescribeOptions: '--tags --always --abbrev=1 --dirty=-d',
+                prereleaseName: 'alpha'
             }
         }
     });
 
     grunt.loadNpmTasks('grunt-bump');
-
-    grunt.registerTask('release', ['bump-commit']);
-    grunt.registerTask('release-patch', ['bump-only:patch', 'release']);
-    grunt.registerTask('release-minor', ['bump-only:minor', 'release']);
-    grunt.registerTask('release-major', ['bump-only:major', 'release']);
-    grunt.registerTask('prerelease', ['bump-only:prerelease', 'release']);
 };
