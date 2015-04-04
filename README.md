@@ -26,4 +26,4 @@ Just replace `emp.svg` with your own icon.
 
 Credit for the default icon goes to [Yannick Lung](http://www.yanlu.de/) :cookie:
 
-[![Icon](emp.svg?raw=true)]()
+[![Icon](https://cdn.rawgit.com/eClip-/mp/master/emp.svg)]()
