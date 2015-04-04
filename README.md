@@ -1,5 +1,5 @@
 [![GitHub release](https://img.shields.io/github/release/eClip-/mp.svg)](https://github.com/eClip-/mp/releases)
-[![EUPL](https://raw.github.com/eClip-/EUPL-badge/master/eupl_1.1.svg)](LICENSE.txt)
+[![EUPL](https://cdn.rawgit.com/eClip-/EUPL-badge/master/eupl_1.1.svg)](LICENSE.txt)
 
 # :package: eClip Package Boilerplate
 
@@ -26,4 +26,4 @@ Just replace `emp.svg` with your own icon.
 
 Credit for the default icon goes to [Yannick Lung](http://www.yanlu.de/) :cookie:
 
-[![Icon](emp.svg)]()
+[![Icon](emp.svg?raw=true)]()
